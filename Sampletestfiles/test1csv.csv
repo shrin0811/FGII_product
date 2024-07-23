@@ -1,0 +1,8 @@
+name_of_policy,category,score,additional_comment,letter_grade
+test1,3,64.00000000000001,random values test,C
+test2,3,85.09782292259985,random test 2,A
+test3,usual policy,68.89374934075903,random test 3,C
+test4,usual policy,59.3305599504954,random test 3,D
+test4,usual policy,30.225352122580144,random test 4,F
+test1,usual policy,58.10000000000001,randomtest1,D
+test2,top-up plan,49.839999999999996,randomtest2,E
