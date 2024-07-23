@@ -1,4 +1,11 @@
 # FGII product
+
+## How to install and make it work? 
+### Unfortunately, as the front-end of this product has not been made, some basic coding knowledge is required to make the program run. 
+
+Ensure that you have Python installed on your device. Any version beyond Python 3.12.0 will work. If not you can install the software [here](https://www.python.org/downloads/)
+Once you have installed Python, follow the instructions below: 
+- 
 ## What does the product do? 
 As a part of my summer internship I was tasked to create a model that objectively grades 100+ insurance policies across the Indian insurance market, thus allowing the company to not only conduct a market survey of existing products but also understand the needs and concerns of the consumer base. 
 
