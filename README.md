@@ -6,7 +6,7 @@
 
 Ensure that you have Python installed on your device. Any version beyond Python 3.12.0 will work. If not you can install the software [here](https://www.python.org/downloads/). 
 Once you have installed Python, follow the instructions below:
-- Go to `grade_policy.py` and download the file. **Do not rename the file.**
+- Go to `grade_policy.py` and download the file. **Do NOT RENAME THE FILE.**
 - Open your Terminal/PowerShell/Command Prompt (for Windows users) and Bash (for MacOS users).
 - Ensure that your terminal/bash directory is the same as the file in which `grade_policy.py` has been downloaded/saved in.
 - Write the following command: `python grade_policy.py 'output_filename.csv'` -- in this case, replace 'output_filename' with the filename that you would want the Excel sheet to be saved as.
