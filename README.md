@@ -4,4 +4,13 @@ As a part of my summer internship I was tasked to create a model that objectivel
 
 ## What are the steps to making the product work? 
 - Step 1: Choose whether you want to check existing policies or add a new policy
-   - 1.1: In case you want to check a new policy, it will see whether the file storing policy data is empty or not. If empty it will ask you to add at least one policy, 
+   - 1.1: In case you want to check a new policy, it will see whether the file storing policy data is empty or not. If empty it will ask you to add at least one policy. If not, it will ask you which policies to show, as per requirement.
+   - 1.2 If you want to add a new policy, it will give you a series of prompts to enter family and policy details.
+- Step 2: Entering family details
+- Step 3: Entering policy details
+- Step 4: Ranking the marking criteria as per the family's needs
+- Step 5: Processing and calculation
+- Step 6: Display of final score and asking for final comments on the policy
+- Step 7: Automatic addition of the policy name, score, letter grade and comment to a `.csv` file.
+
+The `.csv` file can be checked in the working directory - i.e. the location where the program is being run from. 
